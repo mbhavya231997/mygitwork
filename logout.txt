@@ -1,1 +1,2 @@
 This is logout page
+Logged-out sucessfully
