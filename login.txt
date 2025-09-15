@@ -1,2 +1,2 @@
 This is login page
-Please enter the details
+Please enter the details correctly
